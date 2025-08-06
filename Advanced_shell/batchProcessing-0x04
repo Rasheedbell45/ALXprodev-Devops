@@ -52,5 +52,6 @@ done
 
 # Wait for all remaining background jobs
 wait
+kill
 
 echo "✅ All fetch jobs completed."
